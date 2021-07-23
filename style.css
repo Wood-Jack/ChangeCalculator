@@ -1,0 +1,48 @@
+
+
+.Acenter{
+    
+    align-self: center;
+    float: center;
+    
+   
+}
+.AboveCenter{
+    
+    font-size: 900;
+    text-align: center;
+
+}
+
+
+.Leftside{
+    
+    display: inline-block;
+    
+    border-style: solid
+ 
+}
+
+.Center-CenterL{
+    align-items: center;
+    border-style: solid;
+    display: inline-block;
+    
+    
+}
+
+.Center-CenterR{
+
+    align-items: left;
+    display: inline-block;
+    border-style: solid
+    
+}
+
+.Rightside{
+
+    align-items: right;
+    display: inline-block;
+    border-style: solid
+    
+}
